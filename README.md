@@ -171,40 +171,12 @@ Also:
 
 ---
 
-## 🏆 Achievements & Leadership
-
-- 👩‍🏫 Mentored peers in ML & development
-- 🏛 Core Member — Advanced Academic Core
-- 🎤 Vocalist + Pianist + Multi-instrumentalist
-- 🌍 Speak **6 languages**
-
----
-
-## 📜 Certifications
-
-- Harvard CS50  
-- Google Cloud Fundamentals  
-- Python Programming  
-- Cybersecurity Basics  
-- DevOps *(in progress)*  
-- Machine Learning *(in progress)*  
-
----
-
-## 🎯 Current Focus
-
-- 🚀 GSoC contributions  
-- 🧠 Advanced AI systems  
-- ⚙️ Scalable system design  
-- 💡 Building impactful startups  
-
----
 
 <div align="center">
 
-## 🌸 Let's Build Something Amazing
+## 🌸 Let's Build Something Amazing 🌸
 
-💌 Open to collaborations, internships & exciting ideas  
+Open to collaborations, internships & exciting ideas!!
 
 👉 *If it solves a real problem, I'm in.*
 
